@@ -1,1 +1,0 @@
-Arduino nano code for small control panel made for rigbetel labs demo with 1.8 inch TFT LCD display 
